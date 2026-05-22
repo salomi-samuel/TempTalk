@@ -73,10 +73,20 @@ Access the application via the Elastic Beanstalk URL.
 
 ## 📸 Screenshots
 
-- AWS Elastic Beanstalk environment
-- Live deployed chat application
-- S3 bucket with uploaded files
-- RDS database tables
+### 🚀 Elastic Beanstalk Deployment
+![EB](screenshots/eb-dashboard.png)
+
+### 💬 Chat Application UI
+![Chat](screenshots/chat-ui.png)
+
+### ☁️ AWS S3 File Storage
+![S3](screenshots/s3-bucket.png)
+
+### 🗄️ RDS Database Tables
+![RDS](screenshots/rds-table.png)
+
+### 🖼️ Uploaded Image in Chat
+![Image](screenshots/s3-image.png)
 
 ---
 
